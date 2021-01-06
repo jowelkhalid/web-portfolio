@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: #f8f9fc;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.header {
+  width: 95%;
+  height: 100px;
+  margin-right: 5px;
+}
+
+menu ul li {
+  width: 60px;
+  position: relative;
+  list-style: none;
+  float: right;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.heading-highlight {
+  color: #363958;
+}
+
+.name-highlight {
+  color: #ff8367;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  width: 100%;
+}
+
+section {
+  height: 600px;
+}
+
+.button-1 {
+  width: 100px;
+  text-align: center;
+  border-radius: 5px 5px;
+  padding: 15px 20px;
+  color: white;
+  background-color: #f86b61;
+}
+
+.button-2 {
+  width: 150px;
+  text-align: center;
+  border-radius: 5px 5px;
+  padding: 15px 20px;
+  color: white;
+  background-color: #f86b61;
+}
+
+.projects {
+  text-align: center;
+}
+
+.latest-site {
+  color: #f46060;
+  text-align: center;
+}
+
+.project-1 {
+  width: 320px;
+  float: left;
+  margin-left: 100px;
+  height: 350px;
+  background-color: white;
+  box-shadow: 10px 10px 20px gray;
+  border-radius: 10px;
+}
+
+.project-1 img {
+  margin: 10px;
+}
+
+.project-1 h3 {
+  margin: 10px;
+}
+
+.project-1 p {
+  margin: 10px;
+  text-align: justify;
+}
+
+.project-2 {
+  width: 320px;
+  float: left;
+  margin-left: 100px;
+  height: 350px;
+  background-color: white;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+}
+
+.project-2-img {
+  margin: 10px;
+}
+
+.project-2 h3 {
+  margin: 10px;
+}
+
+.project-2 p {
+  text-align: justify;
+  margin: 10px;
+}
+
+.project-3 {
+  width: 320px;
+  float: left;
+  margin-left: 100px;
+  height: 350px;
+  background-color: white;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+}
+
+.project-3-img {
+  margin: 10px;
+}
+
+.project-3 h3 {
+  margin: 10px;
+}
+
+.project-3 p {
+  text-align: justify;
+  margin: 10px;
+}
+
+.inquiry {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.left {
+  float: left;
+  position: absolute;
+  top: 10%;
+  left: 25%;
+}
+
+.btn {
+  top: 38%;
+  left: 65%;
+  position: absolute;
+  background-color: #f66560;
+  color: white;
+  font-size: 16px;
+  padding: 20px 24px;
+  border: none;
+  border-radius: 5px;
+}
+
+.connect h3 {
+  text-align: center;
+  color: #696871;
+}
+
+.connect h2 {
+  text-align: center;
+  color: #363958;
+}
+
+.contact-details {
+  color: black;
+  text-align: center;
+  padding: 20px 0;
+}
+
+footer p {
+  text-align: center;
+  font-size: 12px;
+}
